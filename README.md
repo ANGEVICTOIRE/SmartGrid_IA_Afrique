@@ -27,7 +27,7 @@ Pour exécuter ce jumeau numérique localement sur votre machine :
 ```bash
 pip install -r requirements.txt
 ```
-https://youtu.be/IoKzAn28-ho
+
 2. Lancez l'application Streamlit :
 ```bash
 streamlit run main_simulator.py
@@ -35,3 +35,6 @@ streamlit run main_simulator.py
 
 ---
 **Développé avec passion pour l'avenir de l'énergie en Afrique. **
+---
+##  Démonstration Vidéo
+[👉 Cliquez ici pour visionner la vidéo de démonstration officielle du Jumeau Numérique sur YouTube](https://youtu.be/IoKzAn28-ho)
