@@ -27,7 +27,7 @@ Pour exécuter ce jumeau numérique localement sur votre machine :
 ```bash
 pip install -r requirements.txt
 ```
-
+https://youtu.be/IoKzAn28-ho
 2. Lancez l'application Streamlit :
 ```bash
 streamlit run main_simulator.py
